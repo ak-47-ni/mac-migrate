@@ -33,3 +33,6 @@ Shell wrappers:
 ./scripts/release.sh --output-root ./output
 ./scripts/restore.sh ./output/20260312T120000Z.zip --apply
 ```
+
+## License
+- Licensed under `GPL-3.0`. See `LICENSE`.
